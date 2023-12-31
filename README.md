@@ -22,12 +22,12 @@ including booking that effectively arrived and booking that were cancelled.
 Jupyter notebook.
 
 # Skills used : 
-Python Language
-NumPy
-Pandas
-Matpoltlib
-Seaborn
-MS Word for report making.
+1. Python Language
+2. NumPy
+3. Pandas
+4. Matpoltlib
+5. Seaborn
+6. MS Word for report making.
 
 # Analysis Steps :
 1. Create a Problem Statement.
